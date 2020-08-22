@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit the <code>src/App.js</code> and save to reload.
+          This website is getting developed (Initially) as static. For a legal farm.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.sci.gov.in/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        SUPREME COURT OF INDIA
         </a>
       </header>
     </div>
