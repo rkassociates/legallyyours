@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rkassociates/legallyyours/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rkassociates/legallyyours/static/js/main.0924ea0b.chunk.js",
+    "main.js.map": "/rkassociates/legallyyours/static/js/main.0924ea0b.chunk.js.map",
+    "runtime-main.js": "/rkassociates/legallyyours/static/js/runtime-main.9d341994.js",
+    "runtime-main.js.map": "/rkassociates/legallyyours/static/js/runtime-main.9d341994.js.map",
+    "static/js/2.65ec75c8.chunk.js": "/rkassociates/legallyyours/static/js/2.65ec75c8.chunk.js",
+    "static/js/2.65ec75c8.chunk.js.map": "/rkassociates/legallyyours/static/js/2.65ec75c8.chunk.js.map",
+    "index.html": "/rkassociates/legallyyours/index.html",
+    "precache-manifest.3ab4fcb8b45b1f0d89351077240df288.js": "/rkassociates/legallyyours/precache-manifest.3ab4fcb8b45b1f0d89351077240df288.js",
+    "service-worker.js": "/rkassociates/legallyyours/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rkassociates/legallyyours/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.65ec75c8.chunk.js.LICENSE.txt": "/rkassociates/legallyyours/static/js/2.65ec75c8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rkassociates/legallyyours/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d341994.js",
+    "static/js/2.65ec75c8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0924ea0b.chunk.js"
+  ]
+}
