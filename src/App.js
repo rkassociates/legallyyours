@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import GMap from './component/GoogleMap';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         SUPREME COURT OF INDIA
         </a>
       </header>
+      <GMap isMarkerShown/>
     </div>
   );
 }
