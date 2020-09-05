@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 // import { GoogleMap, Marker, isMarkerShown } from "react-google-maps"
 import { Map, InfoWindow, Marker, GoogleApiWrapper } from 'google-maps-react';
+import { MapBox } from "./index.styled";
 
 class GMap extends Component {
     render() {
         const { isMarkerShown } = this.props;
         return (
-            <div>
+            <MapBox>
                 Google Map
                 {/* <GoogleMap
                     defaultZoom={8}
@@ -25,7 +26,7 @@ class GMap extends Component {
                         </div>
                     </InfoWindow>
                 </Map>
-            </div>
+            </MapBox>
         )
     }
 }
